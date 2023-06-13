@@ -2,7 +2,7 @@ import { Laptop2, LayoutList, Maximize2, Mic2, Play, Repeat, Shuffle, SkipBack, 
 
 export function Footer() {
     return (
-        <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py-4 flex items-center justify-between ">
+        <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py-4 flex items-center justify-between sticky bottom-0">
             <div className='flex items-center gap-1'>
                 <img className='rounded' src="/IMG/B_lock.jpg" width={56} height={56} alt="Capa do álbum Blue Lock" />
 

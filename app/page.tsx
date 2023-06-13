@@ -8,7 +8,7 @@ export default function Home() {
       <div className="h-screen flex flex-col">
         <div className="flex flex-1">
           <Slidebar />
-          <main className="flex-1 p-6">
+          <main className="flex-1 p-6 ml-60">
             <div className="flex items-center gap-4">
               <button className="rounded-full bg-black/40 p-1">
                 {" "}
@@ -125,7 +125,7 @@ export default function Home() {
               <div className="bg-white/5 flex flex-col gap-2 p-3 rounded-md hover:bg-white/10">
                 <img
                   src="/IMG/B_lock.jpg"
-                  className="w-full"
+                  className="w-full rounded"
                   width={120}
                   height={120}
                   alt="Capa do álbum Blue Lock"
@@ -138,7 +138,7 @@ export default function Home() {
               <div className="bg-white/5 flex flex-col gap-2 p-3 rounded-md hover:bg-white/10">
                 <img
                   src="/IMG/B_lock.jpg"
-                  className="w-full"
+                  className="w-full rounded"
                   width={120}
                   height={120}
                   alt="Capa do álbum Blue Lock"
@@ -151,7 +151,7 @@ export default function Home() {
               <div className="bg-white/5 flex flex-col gap-2 p-3 rounded-md hover:bg-white/10">
                 <img
                   src="/IMG/B_lock.jpg"
-                  className="w-full"
+                  className="w-full rounded"
                   width={120}
                   height={120}
                   alt="Capa do álbum Blue Lock"
@@ -162,7 +162,7 @@ export default function Home() {
               <div className="bg-white/5 flex flex-col gap-2 p-3 rounded-md hover:bg-white/10">
                 <img
                   src="/IMG/B_lock.jpg"
-                  className="w-full"
+                  className="w-full rounded"
                   width={120}
                   height={120}
                   alt="Capa do álbum Blue Lock"
@@ -175,7 +175,7 @@ export default function Home() {
               <div className="bg-white/5 flex flex-col gap-2 p-3 rounded-md hover:bg-white/10">
                 <img
                   src="/IMG/B_lock.jpg"
-                  className="w-full"
+                  className="w-full rounded"
                   width={120}
                   height={120}
                   alt="Capa do álbum Blue Lock"
